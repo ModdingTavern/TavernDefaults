@@ -5,3 +5,4 @@ ports:
   forest: 1761
   rcon: 1758
 maxPlayers: 20
+pcWorld: true
