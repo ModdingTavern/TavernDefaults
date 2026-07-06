@@ -4,4 +4,4 @@ ports:
   game: 1757
   forest: 1761
   rcon: 1758
-max-players: 8
+maxPlayers: 20
