@@ -3,4 +3,5 @@ description: 'Test Description'
 ports:
   game: 1757
   forest: 1761
+  rcon: 1758
 max-players: 8
