@@ -4,6 +4,7 @@ ports:
   game: 1757
   forest: 1761
   rcon: 1758
-maxPlayers: 20
-pcWorld: true
-rconPassword: '' # REQUIRED, MAKE THIS SECURE!
+max-players: 20
+pc-world: true
+rcon-password: '' # REQUIRED FOR RMEOTE CONSOLE ACCESS, MAKE THIS SECURE!
+listing-token: '' # REQUIRED TO BE ON THE SERVER LIST, NEEDS TO BE UNIQUE AND LONG!
